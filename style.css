@@ -1,6 +1,6 @@
 
 .left{
-    border: 2px solid red;
+    
     display: inline-block;
     position: absolute;
     left: 34px;
@@ -17,13 +17,13 @@
     right: 34px;
     top: 20px;
     display: inline-block;
-    border: 2px solid green;
+  
 }
 .mid{
     display: block;
     width: 33%;
     margin: 20px auto;
-    border: 2px solid yellow;
+    
 }
 .navbar{
     display: inline-block;
